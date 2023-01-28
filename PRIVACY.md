@@ -14,18 +14,11 @@ _(Note that this list may not be complete. If marked with a asterisk_ (`*`) _the
 
 - Message deletions logs * _(Username, Message Content)_
 - Message purge logs * _(Message Content)_
-- Kick logs * _(Username, Moderator Username, Reason)_
-- Ban logs * _(Username, Moderator Username, Reason)_
-- Warn logs * _(Username, Moderator Username, Reason)_
 - Join logs * _(Username)_
 - Leave logs * _(Username)_
-- Unban logs * _(Username, Moderator Username, Reason)_
 - Command usage logs * _(Username, Command Used, Message Content)_
 - Guild join logs _(Guild name, ID & Guild owner Tag)_
 - Guild leave logs _(Guild name, ID & Guild owner Tag)_
-- Saved playlists _(User ID, songs saved)_
-- levels _(User ID)_
-- Giveaways _(Winner's user ID)_
 
 I, ***ClydE#2462***, (as the bot developer) _will not be liable or responsible for damages of_ ***any*** _kind_ (including, without limitation, damages caused, loss of information or data, or any other indirect, incidental, special or consequential damages) arising out of the use of this bot, even if advised of the possibility of such damages.
 
