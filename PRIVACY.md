@@ -20,6 +20,6 @@ _(Note that this list may not be complete. If marked with a asterisk_ (`*`) _the
 - Guild join logs _(Guild name, ID & Guild owner Tag)_
 - Guild leave logs _(Guild name, ID & Guild owner Tag)_
 
-I, ***ClydE#2462***, (as the bot developer) _will not be liable or responsible for damages of_ ***any*** _kind_ (including, without limitation, damages caused, loss of information or data, or any other indirect, incidental, special or consequential damages) arising out of the use of this bot, even if advised of the possibility of such damages.
+I, ***ImCold#2462***, (as the bot developer) _will not be liable or responsible for damages of_ ***any*** _kind_ (including, without limitation, damages caused, loss of information or data, or any other indirect, incidental, special or consequential damages) arising out of the use of this bot, even if advised of the possibility of such damages.
 
 It is recommended to inform users of your Discord guild that the bot may collect their **END USER DATA**.
