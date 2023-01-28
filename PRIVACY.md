@@ -10,7 +10,7 @@ By using this bot **in any way**, whether this be by using the code for a bot us
 
 Cases of collecting **END USER DATA**:
 
-_(Note that this list may not be complete. If marked with a asterisk_ (`*`) _these logs can be disabled)_
+_(Note that this list may not be complete. If marked with a asterisk_ (`*`) _these logs can be disabled/disabled by default)_
 
 - Message deletions logs * _(Username, Message Content)_
 - Message purge logs * _(Message Content)_
